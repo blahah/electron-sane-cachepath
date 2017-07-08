@@ -1,0 +1,20 @@
+{
+  "name": "electron-sane-cachepath",
+  "version": "0.0.0",
+  "description": "electron-sane-cachepath",
+  "main": "index.js",
+  "dependencies": {
+    "electron-is": "^2.4.0",
+    "untildify": "^3.0.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/blahah/electron-sane-cachepath.git"
+  },
+  "author": "Rik Smith-Unna (@blahah)",
+  "license": "CC0-1.0",
+  "bugs": {
+    "url": "https://github.com/blahah/electron-sane-cachepath/issues"
+  },
+  "homepage": "https://github.com/blahah/electron-sane-cachepath"
+}
