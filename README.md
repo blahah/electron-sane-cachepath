@@ -23,6 +23,8 @@ Sets the `electron` and `chromium` app base cache paths to sane defaults:
 
 *note: the `cache` path is [now undocumented](https://github.com/electron/electron/commit/3d4318e15e757cf26377637ee1240d5b87cde39c) in `electron`, but it works as of electron `1.7.2`*
 
+This module resolves the problem described in [this issue](https://github.com/electron/electron/issues/8124)
+
 ## Install
 
 ```
